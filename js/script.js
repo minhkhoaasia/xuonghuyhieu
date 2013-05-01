@@ -10,7 +10,7 @@ var background_type = "stretched"; // Specify background type (can be "stretched
 var background_info_path = "images/info_background.png"; // Specify here path to info-area background
 
 var logo_path = "images/logo.jpg"; // Specify here path to your logo
-var logo_scale = 60; // Logo sale factor (in percents)
+var logo_scale = 80; // Logo sale factor (in percents)
 var logo_x = 0; // Logo correction factor for X-position (in pixels);
 var logo_y = 0; // Logo correction factor for Y-position (in pixels);
 var logo_url_enable = true; // Make logo clickable (true, false)  
