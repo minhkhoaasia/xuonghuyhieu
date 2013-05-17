@@ -1,7 +1,7 @@
 
 (function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;
 //Edge symbol: 'stage'
-(function(symbolName){Symbol.bindTimelineAction(compId,symbolName,"Default Timeline","complete",function(sym,e){sym.play(0);Symbol.bindTimelineAction(compId,symbolName,"Default Timeline","complete",function(sym,e){alert('Timeline Complete');});
+(function(symbolName){Symbol.bindTimelineAction(compId,symbolName,"Default Timeline","complete",function(sym,e){sym.play(0);});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_danh_cho_khach_hang}","mouseover",function(sym,e){});
 //Edge binding end
