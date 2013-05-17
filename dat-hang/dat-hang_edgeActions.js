@@ -41,9 +41,9 @@ Symbol.bindElementAction(compId,symbolName,"${_dat-hang-ngay}","mouseover",funct
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_dat-hang-ngay}","mouseout",function(sym,e){sym.$("dat-hang-ngay").css("padding-top","0px");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_logo}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
+Symbol.bindElementAction(compId,symbolName,"${_logo}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/","_self");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_banhrangtrungtam}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
+Symbol.bindElementAction(compId,symbolName,"${_banhrangtrungtam}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/","_self");});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","mousedown",function(sym,e){sym.$("trang_chu").css("border","4px solid #787878");});
 //Edge binding end
@@ -51,7 +51,7 @@ Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","mouseover",functi
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","mouseout",function(sym,e){sym.$("trang_chu").css("border","4px solid #ffffff");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
+Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/","_self");});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_thac-mac-ve-cach-dat-hang}","mouseover",function(sym,e){sym.$("thac-mac-ve-cach-dat-hang").css("padding-top","4px");});
 //Edge binding end
