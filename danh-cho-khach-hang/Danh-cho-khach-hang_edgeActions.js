@@ -27,6 +27,18 @@ Symbol.bindElementAction(compId,symbolName,"${_Button2Copy}","mouseout",function
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_Button2Copy}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
 //Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","mousedown",function(sym,e){sym.$("trang_chu").css("border","4px solid #787878");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","mouseover",function(sym,e){sym.$("trang_chu").css("border","4px solid #000000");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","mouseout",function(sym,e){sym.$("trang_chu").css("border","4px solid #ffffff");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_Button2Copy2}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_logo}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_banhrangtrungtam}","click",function(sym,e){window.open("http://www.xuonghuyhieu.com/lien-he","_self");});
+//Edge binding end
 })("stage");
 //Edge symbol end:'stage'
 })(jQuery,AdobeEdge,"EDGE-89789052");
