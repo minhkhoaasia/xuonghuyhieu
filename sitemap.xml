@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+    <loc>http://www.xuonghuyhieu.com/index.html</loc>
+    <lastmod>2013-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url> 
+<url>
+    <loc>http://www.xuonghuyhieu.com/danh-cho-khach-hang/index.html</loc>
+    <lastmod>2013-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url> 
+<url>
+    <loc>http://www.xuonghuyhieu.com/dat-hang/index.html</loc>
+    <lastmod>2013-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url> 
+<url>
+    <loc>http://www.xuonghuyhieu.com/faq/index.html</loc>
+    <lastmod>2013-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url> 
+<url>
+    <loc>http://www.xuonghuyhieu.com/lien-he/index.html</loc>
+    <lastmod>2013-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://www.xuonghuyhieu.com/don-dat-hang/index.html</loc>
+    <lastmod>2013-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url> 
+ 
+</urlset>
+
