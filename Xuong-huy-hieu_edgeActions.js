@@ -29,6 +29,7 @@ Symbol.bindElementAction(compId,symbolName,"${_danh_cho_khach_hang}","mouseout",
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_danh_cho_khach_hang}","mouseover",function(sym,e){});
 //Edge binding end
+Symbol.bindTimelineAction(compId, symbolName, "Default Timeline", "complete", function(sym, e) {sym.play(0);});
 })("stage");
 //Edge symbol end:'stage'
 
