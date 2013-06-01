@@ -1,0 +1,166 @@
+html
+{
+	background: #7F7F7F url("../images/bg.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: 62px;
+}
+
+#u306
+{
+	z-index: 3;
+	width: 960px;
+	height: 620px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#U308_animation
+{
+	width: 960px;
+	height: 620px;
+	border: none;
+}
+
+#pu327
+{
+	width: 0.01px;
+	margin-left: 40px;
+	top: -6px;
+	margin-bottom: -6px;
+	position: relative;
+}
+
+#u327
+{
+	z-index: 6;
+	width: 528px;
+	height: 311px;
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.43;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=43)";
+	filter: alpha(opacity=43);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 338px;
+}
+
+#u316
+{
+	z-index: 7;
+	width: 312px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u326-13
+{
+	z-index: 11;
+	width: 496px;
+	min-height: 305px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 353px;
+}
+
+#u326-2,#u326-3,#u326-5,#u326-7,#u326-8,#u326-10
+{
+	font-size: 19px;
+	color: #D60000;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#pu464
+{
+	width: 0.01px;
+	margin-left: 354px;
+	margin-top: 459px;
+	position: relative;
+}
+
+#u464
+{
+	z-index: 24;
+	width: 153px;
+	position: relative;
+	margin-right: -10000px;
+	left: 151px;
+}
+
+#u498
+{
+	z-index: 26;
+	width: 301px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 58px;
+}
+
+#u311
+{
+	z-index: 4;
+	width: 957px;
+	left: -35px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#pu304
+{
+	width: 0.01px;
+	margin-left: 42px;
+	top: -584px;
+	margin-bottom: -369px;
+	position: relative;
+}
+
+#u304
+{
+	z-index: 2;
+	width: 200px;
+	margin-right: -10000px;
+	margin-top: 170px;
+	left: 842px;
+}
+
+#u321
+{
+	z-index: 9;
+	width: 884px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

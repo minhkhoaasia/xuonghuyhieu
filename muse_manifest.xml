@@ -1,0 +1,81 @@
+<manifest alg="2" build="8" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="487789990"/>
+    <file name="master_a-master.css" crc="351191000" ref="index:bang-bao-gia"/>
+    <file name="index.css" crc="436308219" ref="index"/>
+    <file name="bang-bao-gia.css" crc="3843055743" ref="bang-bao-gia"/>
+  </folder>
+  <folder name="assets">
+    <folder name="xuong-huy-hieu">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="3935511104" mt="1370091741000"/>
+        <file name="jquery-1.7.1.min.js" crc="4091143699" mt="1370091741000"/>
+      </folder>
+      <folder name="images">
+        <file name="file-vector-trang-chu.png" crc="3761700460" mt="1370091741000"/>
+        <file name="file-vector-trang-chu2.png" crc="3761700460" mt="1370091741000"/>
+        <file name="footer.png" crc="91093051" mt="1370091741000"/>
+        <file name="huy-hieu-mau.jpg" crc="4206258985" mt="1370091741000"/>
+        <file name="Poster.png" crc="121750756" mt="1370091741000"/>
+        <file name="tai-sao-chon-chung-toi.png" crc="367089376" mt="1370091741000"/>
+        <file name="loader-bar.gif" crc="376648417" mt="1370091741000"/>
+        <file name="preloader2.gif" crc="287767951" mt="1370091741000"/>
+        <file name="preloader22.gif" crc="287767951" mt="1370091741000"/>
+      </folder>
+      <file name="banhrang2.png" crc="3764150794" mt="1370091741000"/>
+      <file name="banhrang3.png" crc="4109658714" mt="1370091741000"/>
+      <file name="banhrang4.png" crc="4053594556" mt="1370091741000"/>
+      <file name="banhrang5.png" crc="26460665" mt="1370091741000"/>
+      <file name="banhrangtrungtam.png" crc="4010256418" mt="1370091741000"/>
+      <file name="be_phong.png" crc="4196870547" mt="1370091741000"/>
+      <file name="boom.png" crc="4092541735" mt="1370091741000"/>
+      <file name="bua.png" crc="450434140" mt="1370091741000"/>
+      <file name="du.png" crc="43670893" mt="1370091741000"/>
+      <file name="fire2.png" crc="66388311" mt="1370091741000"/>
+      <file name="giatdien.png" crc="4181180154" mt="1370091741000"/>
+      <file name="logo.png" crc="3949746804" mt="1370091741000"/>
+      <file name="mach_dien.png" crc="4207101717" mt="1370091741000"/>
+      <file name="mui_ten_len.png" crc="4294935561" mt="1370091741000"/>
+      <file name="mui_ten_ngang.png" crc="2503273" mt="1370091741000"/>
+      <file name="ten_lua.png" crc="3939646749" mt="1370091741000"/>
+      <file name="X.png" crc="509959992" mt="1370091741000"/>
+      <file name="xuong_cho.png" crc="3925423153" mt="1370091741000"/>
+      <file name="Xuong-huy-hieu_edge.js" crc="4289391215" mt="1370091741000"/>
+      <file name="Xuong-huy-hieu_edgeActions.js" crc="4221348133" mt="1370091741000"/>
+      <file name="Xuong-huy-hieu_edgePreload.js" crc="4011005070" mt="1370091741000"/>
+      <file name="nhan_vat_cho.gif" crc="3942102655" mt="1370091741000"/>
+      <file name="Xuong-huy-hieu.html" crc="99839420" mt="1370091741000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="bang-bao-gia:index"/>
+    <file name="museutils.js" crc="4076886207" ref="bang-bao-gia:index"/>
+    <file name="pie.js" crc="4067523484" ref="bang-bao-gia:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="bang-bao-gia:index"/>
+  </folder>
+  <folder name="images">
+    <file name="bang-bao-gia-favicon.ico" crc="69254536" ref="bang-bao-gia"/>
+    <file name="bg.jpg" crc="4248523777" ref="bang-bao-gia:index"/>
+    <file name="trang-chu.png" crc="232094105" ref="bang-bao-gia"/>
+    <file name="banhrangtrungtam.png" crc="150122422" ref="bang-bao-gia"/>
+    <file name="logo.png" crc="3949746804" ref="bang-bao-gia"/>
+    <file name="bang-gia-1.png" crc="158604728" ref="bang-bao-gia"/>
+    <file name="bang-gia-2.png" crc="92866936" ref="bang-bao-gia"/>
+    <file name="cach-dat-hang.png" crc="3861234404" ref="bang-bao-gia"/>
+    <file name="cac-buoc-dat-hang.png" crc="3784040651" ref="bang-bao-gia"/>
+    <file name="cuc-ki-don-gian.png" crc="521923925" ref="bang-bao-gia"/>
+    <file name="click.png" crc="419697857" ref="bang-bao-gia:index"/>
+    <file name="don-dat-hang.png" crc="4239662615" ref="bang-bao-gia"/>
+    <file name="cau-hoi-thuong-gap.png" crc="131695770" ref="bang-bao-gia"/>
+    <file name="thac-mac-ve-cach-dat-hang.png" crc="4269959867" ref="bang-bao-gia"/>
+    <file name="thac-mac-ve-thiet-ke.png" crc="4076867557" ref="bang-bao-gia"/>
+    <file name="dat-hang-ngay.png" crc="27886491" ref="bang-bao-gia"/>
+    <file name="trang-chu-favicon.ico" crc="69254536" ref="index"/>
+    <file name="huy-hieu-mau.jpg" crc="4206258985" ref="index"/>
+    <file name="bang-bao-gia.png" crc="3936257605" ref="index"/>
+    <file name="footer.png" crc="91093051" ref="index"/>
+    <file name="tai-sao-chon-chung-toi.png" crc="367089376" ref="index"/>
+  </folder>
+  <file name="bang-bao-gia.html" crc="4220224590" mt="1370109459053"/>
+  <file name="index.html" crc="244013205" mt="1370101512774"/>
+</manifest>
