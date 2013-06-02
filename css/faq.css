@@ -1,0 +1,161 @@
+html
+{
+	background: #7F7F7F url("../images/bg.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: 30px;
+	margin-bottom: -36px;
+}
+
+#u538
+{
+	z-index: 7;
+	width: 110px;
+	margin-left: 79px;
+	position: relative;
+}
+
+#pu534
+{
+	width: 0.01px;
+	margin-left: 146px;
+	top: -6px;
+	margin-bottom: -6px;
+	position: relative;
+}
+
+#u534
+{
+	z-index: 3;
+	width: 157px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u536
+{
+	z-index: 5;
+	width: 650px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 29px;
+}
+
+#u536_clip
+{
+	overflow: hidden;
+	width: 650px;
+	height: 115px;
+}
+
+#u536_img
+{
+	margin-bottom: -1px;
+}
+
+#u543-11
+{
+	z-index: 9;
+	width: 462px;
+	min-height: 92px;
+	margin-left: 60px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u543-2,#u543-4,#u543-6,#u543-8
+{
+	color: #D60000;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#pu546
+{
+	width: 0.01px;
+	margin-left: 46px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u546
+{
+	z-index: 20;
+	width: 641px;
+	height: 594px;
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u544-44
+{
+	z-index: 21;
+	width: 613px;
+	min-height: 176px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 18px;
+}
+
+#u544-2,#u544-5,#u544-10,#u544-15,#u544-20,#u544-25,#u544-28,#u544-35
+{
+	font-weight: bold;
+}
+
+#u544-7,#u544-8,#u544-12,#u544-17,#u544-22,#u544-30,#u544-32,#u544-37,#u544-39,#u544-41
+{
+	color: #D60000;
+}
+
+#u304
+{
+	z-index: 2;
+	width: 200px;
+	margin-left: 884px;
+	top: -414px;
+	margin-bottom: -16px;
+}
+
+#u552
+{
+	z-index: 65;
+	width: 677px;
+	margin-left: 37px;
+	margin-top: 12px;
+	position: relative;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

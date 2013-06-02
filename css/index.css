@@ -73,9 +73,9 @@ html
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	opacity: 0.43;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=43)";
-	filter: alpha(opacity=43);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
