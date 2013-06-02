@@ -17,6 +17,12 @@ html
 	margin-bottom: 62px;
 }
 
+#pu306
+{
+	width: 0.01px;
+	position: relative;
+}
+
 #u306
 {
 	z-index: 3;
@@ -26,6 +32,7 @@ html
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #U308_animation
@@ -33,6 +40,16 @@ html
 	width: 960px;
 	height: 620px;
 	border: none;
+}
+
+#u503
+{
+	z-index: 28;
+	width: 120px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 550px;
+	left: 442px;
 }
 
 #pu327

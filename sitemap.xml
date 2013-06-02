@@ -277,6 +277,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.xuonghuyhieu.com/images/chevron.png</loc>
+    <lastmod>2013-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.xuonghuyhieu.com/images/huy-hieu-mau.jpg</loc>
     <lastmod>2013-06-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,7 +314,7 @@
   </url>
   <url>
     <loc>http://www.xuonghuyhieu.com/index.html</loc>
-    <lastmod>2013-06-01</lastmod>
+    <lastmod>2013-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="487789990"/>
     <file name="master_a-master.css" crc="351191000" ref="index:bang-bao-gia"/>
-    <file name="index.css" crc="436308219" ref="index"/>
+    <file name="index.css" crc="4083390279" ref="index"/>
     <file name="bang-bao-gia.css" crc="3843055743" ref="bang-bao-gia"/>
   </folder>
   <folder name="assets">
@@ -71,11 +71,12 @@
     <file name="thac-mac-ve-thiet-ke.png" crc="4076867557" ref="bang-bao-gia"/>
     <file name="dat-hang-ngay.png" crc="27886491" ref="bang-bao-gia"/>
     <file name="trang-chu-favicon.ico" crc="69254536" ref="index"/>
+    <file name="chevron.png" crc="4127176384" ref="index"/>
     <file name="huy-hieu-mau.jpg" crc="4206258985" ref="index"/>
     <file name="bang-bao-gia.png" crc="3936257605" ref="index"/>
     <file name="footer.png" crc="91093051" ref="index"/>
     <file name="tai-sao-chon-chung-toi.png" crc="367089376" ref="index"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="4220224590" mt="1370109459053"/>
-  <file name="index.html" crc="244013205" mt="1370101512774"/>
+  <file name="bang-bao-gia.html" crc="4015645543" mt="1370182517043"/>
+  <file name="index.html" crc="108235264" mt="1370129973060"/>
 </manifest>
