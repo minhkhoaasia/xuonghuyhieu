@@ -7,19 +7,29 @@ html
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 499.5999999999999px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-bottom: 62px;
+	margin-top: -36px;
+	margin-bottom: -34px;
+}
+
+#u304
+{
+	z-index: 2;
+	width: 200px;
+	margin-left: 895px;
 }
 
 #pu306
 {
 	width: 0.01px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -44,7 +54,7 @@ html
 
 #u503
 {
-	z-index: 28;
+	z-index: 26;
 	width: 120px;
 	position: relative;
 	margin-right: -10000px;
@@ -55,9 +65,9 @@ html
 #pu327
 {
 	width: 0.01px;
-	margin-left: 40px;
-	top: -6px;
-	margin-bottom: -6px;
+	margin-left: 45px;
+	top: -5px;
+	margin-bottom: -5px;
 	position: relative;
 }
 
@@ -78,27 +88,18 @@ html
 	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 338px;
-}
-
-#u316
-{
-	z-index: 7;
-	width: 312px;
-	position: relative;
-	margin-right: -10000px;
+	left: 333px;
 }
 
 #u326-13
 {
-	z-index: 11;
+	z-index: 9;
 	width: 496px;
 	min-height: 305px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
-	left: 353px;
+	margin-top: 5px;
+	left: 348px;
 }
 
 #u326-2,#u326-3,#u326-5,#u326-7,#u326-8,#u326-10
@@ -109,65 +110,70 @@ html
 	font-style: italic;
 }
 
-#pu464
+#u656
 {
-	width: 0.01px;
-	margin-left: 354px;
-	margin-top: 459px;
-	position: relative;
-}
-
-#u464
-{
-	z-index: 24;
-	width: 153px;
+	z-index: 30;
+	width: 323px;
 	position: relative;
 	margin-right: -10000px;
-	left: 151px;
+}
+
+#ppu498
+{
+	width: 0.01px;
+	margin-left: 340px;
+	margin-top: 411px;
+	position: relative;
 }
 
 #u498
 {
-	z-index: 26;
-	width: 301px;
+	z-index: 23;
+	height: 100px;
+	width: 310px;
+	vertical-align: top;
+	background: url("../images/u498.png") no-repeat 0px 0px;
+	margin-bottom: -9px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 58px;
+	margin-top: 50px;
+}
+
+#u498:hover
+{
+	background: url("../images/u498-r.png") no-repeat 0px 0px;
+}
+
+#u498:active
+{
+	background: url("../images/u498-m.png") no-repeat 0px 0px;
+}
+
+#u464
+{
+	z-index: 28;
+	width: 153px;
+	position: relative;
+	margin-right: -10000px;
+	left: 178px;
+}
+
+#u321
+{
+	z-index: 7;
+	width: 884px;
+	margin-left: 38px;
+	top: -511px;
+	margin-bottom: -369px;
+	position: relative;
 }
 
 #u311
 {
 	z-index: 4;
 	width: 957px;
-	left: -35px;
-	margin-top: 26px;
+	margin-top: 61px;
 	position: relative;
-}
-
-#pu304
-{
-	width: 0.01px;
-	margin-left: 42px;
-	top: -584px;
-	margin-bottom: -369px;
-	position: relative;
-}
-
-#u304
-{
-	z-index: 2;
-	width: 200px;
-	margin-right: -10000px;
-	margin-top: 170px;
-	left: 842px;
-}
-
-#u321
-{
-	z-index: 9;
-	width: 884px;
-	position: relative;
-	margin-right: -10000px;
 }
 
 body

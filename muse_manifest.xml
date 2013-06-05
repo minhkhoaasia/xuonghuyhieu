@@ -1,10 +1,10 @@
 <manifest alg="2" build="8" opt="false">
   <folder name="css">
-    <file name="site_global.css" crc="487789990"/>
-    <file name="master_a-master.css" crc="351191000" ref="index:faq:bang-bao-gia"/>
-    <file name="index.css" crc="128525399" ref="index"/>
-    <file name="faq.css" crc="4288213649" ref="faq"/>
-    <file name="bang-bao-gia.css" crc="3843055743" ref="bang-bao-gia"/>
+    <file name="site_global.css" crc="89652228"/>
+    <file name="master_a-master.css" crc="351191000" ref="faq:bang-bao-gia:index"/>
+    <file name="faq.css" crc="452144792" ref="faq"/>
+    <file name="bang-bao-gia.css" crc="4073200575" ref="bang-bao-gia"/>
+    <file name="index.css" crc="3791613290" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="xuong-huy-hieu">
@@ -60,27 +60,41 @@
     <file name="trang-chu.png" crc="232094105" ref="bang-bao-gia:faq"/>
     <file name="banhrangtrungtam.png" crc="150122422" ref="bang-bao-gia:faq"/>
     <file name="logo.png" crc="3949746804" ref="bang-bao-gia:faq"/>
-    <file name="bang-gia-1.png" crc="158604728" ref="bang-bao-gia"/>
-    <file name="bang-gia-2.png" crc="92866936" ref="bang-bao-gia"/>
+    <file name="click.png" crc="419697857" ref="bang-bao-gia:index"/>
+    <file name="bang-gia-1.gif" crc="4218387802" ref="bang-bao-gia"/>
+    <file name="bang-gia-2.gif" crc="194536997" ref="bang-bao-gia"/>
     <file name="cach-dat-hang.png" crc="3861234404" ref="bang-bao-gia"/>
     <file name="cac-buoc-dat-hang.png" crc="3784040651" ref="bang-bao-gia"/>
     <file name="cuc-ki-don-gian.png" crc="521923925" ref="bang-bao-gia"/>
-    <file name="click.png" crc="419697857" ref="bang-bao-gia:index"/>
     <file name="don-dat-hang.png" crc="4239662615" ref="bang-bao-gia"/>
     <file name="cau-hoi-thuong-gap.png" crc="131695770" ref="bang-bao-gia"/>
-    <file name="thac-mac-ve-cach-dat-hang.png" crc="4269959867" ref="bang-bao-gia"/>
-    <file name="thac-mac-ve-thiet-ke.png" crc="4076867557" ref="bang-bao-gia"/>
-    <file name="dat-hang-ngay.png" crc="27886491" ref="bang-bao-gia"/>
+    <file name="u135.png" crc="4278201625" ref="bang-bao-gia"/>
+    <file name="u135-r.png" crc="365132724" ref="bang-bao-gia"/>
+    <file name="u140.png" crc="3825881435" ref="bang-bao-gia"/>
+    <file name="u140-r.png" crc="3934355261" ref="bang-bao-gia"/>
+    <file name="u469.png" crc="3932947765" ref="bang-bao-gia"/>
+    <file name="u469-m.png" crc="3932947765" ref="bang-bao-gia"/>
+    <file name="u493.png" crc="3995823864" ref="bang-bao-gia"/>
+    <file name="u493-r.png" crc="56076049" ref="bang-bao-gia"/>
+    <file name="footer.png" crc="91093051" ref="bang-bao-gia:index"/>
     <file name="a-master-favicon.ico" crc="275975921" ref="index"/>
     <file name="chevron.png" crc="4127176384" ref="index"/>
-    <file name="huy-hieu-mau.jpg" crc="4206258985" ref="index"/>
-    <file name="bang-bao-gia.png" crc="3936257605" ref="index"/>
-    <file name="footer.png" crc="91093051" ref="index"/>
+    <file name="img_1643.jpg" crc="3172694" ref="index"/>
+    <file name="u498.png" crc="3822130433" ref="index"/>
+    <file name="u498-r.png" crc="3893264967" ref="index"/>
+    <file name="u498-m.png" crc="3893264967" ref="index"/>
     <file name="tai-sao-chon-chung-toi.png" crc="367089376" ref="index"/>
     <file name="faq-favicon.ico" crc="275975921" ref="faq"/>
+    <file name="click-u615.png" crc="3932947765" ref="faq"/>
+    <file name="img_1618.jpg" crc="4054454894" ref="faq"/>
+    <file name="img_1607.jpg" crc="127613476" ref="faq"/>
+    <file name="img_1629.jpg" crc="3849596820" ref="faq"/>
+    <file name="u617.png" crc="3995823864" ref="faq"/>
+    <file name="u617-r.png" crc="56076049" ref="faq"/>
+    <file name="img_1614.jpg" crc="454247137" ref="faq"/>
     <file name="dung-cu-xuong.png" crc="3882381974" ref="faq"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="4094689986" mt="1370188174757"/>
-  <file name="index.html" crc="4154088878" mt="1370188140148"/>
-  <file name="faq.html" crc="4026199972" mt="1370188197381"/>
+  <file name="bang-bao-gia.html" crc="4092645098" mt="1370409201661"/>
+  <file name="index.html" crc="4099842182" mt="1370409202503"/>
+  <file name="faq.html" crc="462556927" mt="1370409235095"/>
 </manifest>
