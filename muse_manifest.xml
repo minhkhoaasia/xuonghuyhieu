@@ -1,10 +1,10 @@
 <manifest alg="2" build="8" opt="false">
   <folder name="css">
     <file name="site_global.css" crc="89652228"/>
-    <file name="master_a-master.css" crc="351191000" ref="faq:bang-bao-gia:index"/>
-    <file name="faq.css" crc="452144792" ref="faq"/>
-    <file name="bang-bao-gia.css" crc="4158957137" ref="bang-bao-gia"/>
+    <file name="master_a-master.css" crc="351191000" ref="index:faq:bang-bao-gia"/>
     <file name="index.css" crc="482507243" ref="index"/>
+    <file name="faq.css" crc="4180084195" ref="faq"/>
+    <file name="bang-bao-gia.css" crc="3985501619" ref="bang-bao-gia"/>
   </folder>
   <folder name="assets">
     <folder name="xuong-huy-hieu">
@@ -93,7 +93,7 @@
     <file name="img_1614.jpg" crc="454247137" ref="faq"/>
     <file name="dung-cu-xuong.png" crc="3882381974" ref="faq"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="4073699372" mt="1370413266249"/>
+  <file name="bang-bao-gia.html" crc="166781022" mt="1370448970397"/>
   <file name="index.html" crc="3896540673" mt="1370412940269"/>
-  <file name="faq.html" crc="394597121" mt="1370412940979"/>
+  <file name="faq.html" crc="4291892172" mt="1370449055532"/>
 </manifest>

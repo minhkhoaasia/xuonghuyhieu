@@ -7,7 +7,8 @@ html
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 499.5999999999999px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -77,7 +78,7 @@ html
 {
 	width: 0.01px;
 	margin-left: 82px;
-	margin-top: 26px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -101,7 +102,7 @@ html
 	z-index: 40;
 	width: 422px;
 	margin-left: 109px;
-	margin-top: 26px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -111,7 +112,7 @@ html
 	width: 300px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
+	margin-top: 18px;
 	left: 551px;
 }
 
@@ -148,8 +149,8 @@ html
 	width: 427px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
-	left: 218px;
+	margin-top: 24px;
+	left: 160px;
 }
 
 #u145
@@ -158,8 +159,8 @@ html
 	width: 183px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 664px;
+	margin-top: 118px;
+	left: 611px;
 }
 
 #u488
@@ -168,15 +169,15 @@ html
 	width: 268px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 318px;
+	margin-top: 8px;
+	left: 260px;
 }
 
 #pu123
 {
 	width: 0.01px;
-	margin-left: 81px;
-	margin-top: 33px;
+	margin-left: 79px;
+	margin-top: 71px;
 	position: relative;
 }
 
@@ -197,7 +198,7 @@ html
 	background: url("../images/u135.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 11px;
+	margin-top: 10px;
 	left: 200px;
 }
 
@@ -213,10 +214,10 @@ html
 	width: 447px;
 	vertical-align: top;
 	background: url("../images/u140.png") no-repeat 0px 0px;
-	margin-bottom: -4px;
+	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 67px;
+	margin-top: 66px;
 	left: 203px;
 }
 
@@ -229,8 +230,8 @@ html
 {
 	z-index: 21;
 	width: 117px;
-	margin-left: 535px;
-	margin-top: 25px;
+	margin-left: 518px;
+	margin-top: 38px;
 	position: relative;
 }
 
@@ -241,9 +242,9 @@ html
 	width: 309px;
 	vertical-align: top;
 	background: url("../images/u493.png") no-repeat 0px 0px;
-	margin-left: 385px;
-	top: -33px;
-	margin-bottom: -33px;
+	margin-left: 368px;
+	top: -32px;
+	margin-bottom: -32px;
 	position: relative;
 }
 
@@ -257,8 +258,8 @@ html
 	z-index: 30;
 	width: 957px;
 	left: -21px;
-	top: -2px;
-	margin-bottom: -2px;
+	top: -3px;
+	margin-bottom: -3px;
 	position: relative;
 }
 

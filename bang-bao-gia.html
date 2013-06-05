@@ -10,7 +10,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?89652228"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?351191000"/>
-  <link rel="stylesheet" type="text/css" href="css/bang-bao-gia.css?4158957137" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/bang-bao-gia.css?3985501619" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -46,15 +46,6 @@
 
 </script>
 
-<!--Start of Zopim Live Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//cdn.zopim.com/?1HHiYjHO96YAKsw09PdutrbussRxam38';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-</script>
-<!--End of Zopim Live Chat Script-->
 
  </head>
  <body>
@@ -121,6 +112,123 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
    <img class="preload" src="images/u140-r.png" alt=""/>
    <img class="preload" src="images/u493-r.png" alt=""/>
   </div>
+  
+<div id="slidingchat_container" style="bottom:0px;right: 10px ;position:fixed;width:243px;">
+		<div style="cursor:pointer; background:url('callout.png') no-repeat;height:112px;" id="slidingchat_trigger1"></div>
+   		<div style="cursor:pointer; background:url('window1.png') no-repeat;height:29px;width:243px;" id="slidingchat_trigger2">
+        <div style="color:#fff; text-transform:capitalize; font-family:Arial, Helvetica, sans-serif;font-size:12px;margin-left:12px;padding:6px; font-weight:bold;" id="slidingchat_status">
+		<span>Liên hệ</span>&nbsp;-&nbsp;Đặt câu hỏi.
+        </div>
+        </div>
+		<div id="slidingchat_inner" style="display:none;border: 1px solid #000;background:#fff;">
+<form action="https://docs.google.com/forms/d/1-HU6jv0UqAVaRd5vETVogfm3S6FrhGYhLkiw2MMCSss/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol style="padding-left: 0">
+<div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1208136214"><div class="ss-q-title">Tên bạn
+<label for="itemView.getDomIdToLabel()" aria-label="(Trường bắt buộc)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1208136214" value="" class="ss-q-short" id="entry_1208136214" dir="auto" aria-required="true">
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1271409054"><div class="ss-q-title">Số điện thoại
+<label for="itemView.getDomIdToLabel()" aria-label="(Trường bắt buộc)"></label>
+<span class="ss-required-asterisk">*</span></div>
+</label>
+<input type="text" name="entry.1271409054" value="" class="ss-q-short" id="entry_1271409054" dir="auto" aria-required="true">
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1181550914"><div class="ss-q-title">Nội dung 
+<label for="itemView.getDomIdToLabel()" aria-label="(Trường bắt buộc)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.1181550914" rows="8" cols="0" class="ss-q-long" id="entry_1181550914" dir="auto" aria-required="true"></textarea>
+
+</div></div></div>
+<input type="hidden" name="draftResponse" value="[]
+">
+<input type="hidden" name="pageHistory" value="0">
+
+
+<div class="ss-item ss-navigate"><div class="ss-form-entry" dir="ltr">
+<input type="submit" name="submit" value="G&#432;&#777;i" id="ss-submit">
+</div></div></ol></form>
+		</div>
+</div>
+
+<script type="text/javascript" src="http://www.xuonghuyhieu.com/assets/xuong-huy-hieu/edge_includes/jquery-1.7.1.min.js"></script>
+
+
+	<script type="text/javascript">
+ 
+		// When the DOM is ready, initialize the scripts.
+		jQuery(function( $ ){
+ 
+ 
+ $(document).ready(function(){
+ 
+				
+			$('#slidingchat_trigger1').click(
+				function( event ){
+					// Prevent the default event.
+					event.preventDefault();
+ 
+					// Toggle the slide based on its current
+					// visibility.
+					if ($('#slidingchat_inner').is( ":visible" )){
+ 
+						// Hide - slide up.
+						$('#slidingchat_inner').slideUp( 300, function(){ 
+						$('#slidingchat_trigger1').show();
+						$('#slidingchat_trigger2').css({'background':'url(window1.png) no-repeat'});
+						 } );
+ 
+					} else {
+ 
+						// Show - slide down.
+						$('#slidingchat_inner').slideDown( 300, function(){ 
+						$('#slidingchat_trigger1').hide();
+						$('#slidingchat_trigger2').css({'background':'url(window2.png) no-repeat'});
+						 } );
+ 
+					}
+				}
+			);
+			
+			
+			$('#slidingchat_trigger2').click(
+				function( event ){
+					// Prevent the default event.
+					event.preventDefault();
+ 
+					// Toggle the slide based on its current
+					// visibility.
+					if ($('#slidingchat_inner').is( ":visible" )){
+ 
+						// Hide - slide up.
+						$('#slidingchat_inner').slideUp( 300, function(){ 
+						$('#slidingchat_trigger1').show() } );
+ 
+					} else {
+ 
+						// Show - slide down.
+						$('#slidingchat_inner').slideDown( 300, function(){ 
+						$('#slidingchat_trigger1').hide() } );
+ 
+					}
+				}
+			);
+			
+			
+			
+			});
+			
+ 
+		});
+		
+ 
+	</script>
+
+
   <!-- JS includes -->
   <script type="text/javascript">
    if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
