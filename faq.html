@@ -130,17 +130,16 @@
   <div class="preload_images">
    <img class="preload" src="images/u617-r.png" alt=""/>
   </div>
-  
-<div id="slidingchat_container" style="bottom:0px;right: 10px ;position:fixed;width:243px;">
+ 
+<div id="slidingchat_container" style="z-index:1000 ;bottom:0px;right: 10px ;position:fixed;width:243px;">
 		<div style="cursor:pointer; background:url('callout.png') no-repeat;height:112px;" id="slidingchat_trigger1"></div>
    		<div style="cursor:pointer; background:url('window1.png') no-repeat;height:29px;width:243px;" id="slidingchat_trigger2">
         <div style="color:#fff; text-transform:capitalize; font-family:Arial, Helvetica, sans-serif;font-size:12px;margin-left:12px;padding:6px; font-weight:bold;" id="slidingchat_status">
 		<span>Liên hệ</span>&nbsp;-&nbsp;Đặt câu hỏi.
         </div>
         </div>
-		<div id="slidingchat_inner" style="display:none;border: 1px solid #000;background:#fff;">
-<iframe src="http://www.xuonghuyhieu.com/lienhe.html" width="243" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
+		<div id="slidingchat_inner" style="z-index:1000 ;display:none;border: 1px solid #000;background:#fff;">
+<iframe src="http://www.xuonghuyhieu.com/lienhe.html" width="243" height="320" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 		</div>
 </div>
 
@@ -216,7 +215,6 @@
 		
  
 	</script>
-
 
   <!-- JS includes -->
   <script type="text/javascript">
