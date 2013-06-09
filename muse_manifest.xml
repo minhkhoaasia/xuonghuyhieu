@@ -1,10 +1,10 @@
 <manifest alg="2" build="8" opt="false">
   <folder name="css">
     <file name="site_global.css" crc="89652228"/>
-    <file name="master_a-master.css" crc="351191000" ref="index:faq:bang-bao-gia"/>
-    <file name="index.css" crc="482507243" ref="index"/>
-    <file name="faq.css" crc="4180084195" ref="faq"/>
-    <file name="bang-bao-gia.css" crc="3985501619" ref="bang-bao-gia"/>
+    <file name="master_a-master.css" crc="351191000" ref="bang-bao-gia:index:faq"/>
+    <file name="bang-bao-gia.css" crc="4149257378" ref="bang-bao-gia"/>
+    <file name="index.css" crc="219545294" ref="index"/>
+    <file name="faq.css" crc="4012612574" ref="faq"/>
   </folder>
   <folder name="assets">
     <folder name="xuong-huy-hieu">
@@ -66,34 +66,52 @@
     <file name="cach-dat-hang.png" crc="3861234404" ref="bang-bao-gia"/>
     <file name="cac-buoc-dat-hang.png" crc="3784040651" ref="bang-bao-gia"/>
     <file name="cuc-ki-don-gian.png" crc="521923925" ref="bang-bao-gia"/>
-    <file name="don-dat-hang.png" crc="4239662615" ref="bang-bao-gia"/>
+    <file name="u488.png" crc="342673041" ref="bang-bao-gia"/>
+    <file name="u488-r.png" crc="513071016" ref="bang-bao-gia"/>
     <file name="cau-hoi-thuong-gap.png" crc="131695770" ref="bang-bao-gia"/>
     <file name="u135.png" crc="4278201625" ref="bang-bao-gia"/>
     <file name="u135-r.png" crc="365132724" ref="bang-bao-gia"/>
     <file name="u140.png" crc="3825881435" ref="bang-bao-gia"/>
     <file name="u140-r.png" crc="3934355261" ref="bang-bao-gia"/>
     <file name="click.png" crc="419697857" ref="bang-bao-gia:index"/>
+    <file name="u739.png" crc="493810493" ref="bang-bao-gia"/>
+    <file name="u739-r.png" crc="355380397" ref="bang-bao-gia"/>
     <file name="u493.png" crc="3995823864" ref="bang-bao-gia"/>
     <file name="u493-r.png" crc="56076049" ref="bang-bao-gia"/>
     <file name="footer.png" crc="91093051" ref="bang-bao-gia:index"/>
-    <file name="a-master-favicon.ico" crc="275975921" ref="index"/>
+    <file name="trang-chu-favicon.ico" crc="275975921" ref="index"/>
     <file name="chevron.png" crc="4127176384" ref="index"/>
-    <file name="img_1643.jpg" crc="4180325492" ref="index"/>
+    <file name="img_1625.jpg" crc="211145932" ref="index"/>
+    <file name="img_1615.jpg" crc="4261106405" ref="index"/>
+    <file name="img_1607.jpg" crc="415628335" ref="index"/>
+    <file name="img_1623.jpg" crc="317532122" ref="index"/>
+    <file name="img_1614.jpg" crc="4243636165" ref="index"/>
+    <file name="img_1617.jpg" crc="110877576" ref="index"/>
+    <file name="img_1618.jpg" crc="3972407947" ref="index"/>
+    <file name="img_1619.jpg" crc="4084877285" ref="index"/>
+    <file name="img_1624.jpg" crc="3762104081" ref="index"/>
+    <file name="img_1621.jpg" crc="3990060685" ref="index"/>
     <file name="u498.png" crc="3822130433" ref="index"/>
     <file name="u498-r.png" crc="3893264967" ref="index"/>
     <file name="u498-m.png" crc="3893264967" ref="index"/>
     <file name="tai-sao-chon-chung-toi.png" crc="367089376" ref="index"/>
     <file name="faq-favicon.ico" crc="275975921" ref="faq"/>
     <file name="click-u615.png" crc="3932947765" ref="faq"/>
-    <file name="img_1618.jpg" crc="4054454894" ref="faq"/>
-    <file name="img_1607.jpg" crc="127613476" ref="faq"/>
+    <file name="u747.png" crc="4194337350" ref="faq"/>
+    <file name="u747-r.png" crc="465595535" ref="faq"/>
+    <file name="img_16182.jpg" crc="4054454894" ref="faq"/>
+    <file name="img_16072.jpg" crc="127613476" ref="faq"/>
     <file name="img_1629.jpg" crc="3849596820" ref="faq"/>
-    <file name="u617.png" crc="3995823864" ref="faq"/>
-    <file name="u617-r.png" crc="56076049" ref="faq"/>
-    <file name="img_1614.jpg" crc="454247137" ref="faq"/>
+    <file name="img_1643-001.jpg" crc="3876513425" ref="faq"/>
+    <file name="img_1617-001.jpg" crc="4037096040" ref="faq"/>
+    <file name="img_1619-001.jpg" crc="4247354366" ref="faq"/>
+    <file name="img_1623-001.jpg" crc="26176060" ref="faq"/>
+    <file name="u617.png" crc="103145163" ref="faq"/>
+    <file name="u617-r.png" crc="100808433" ref="faq"/>
+    <file name="img_16142.jpg" crc="454247137" ref="faq"/>
     <file name="dung-cu-xuong.png" crc="3882381974" ref="faq"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="166781022" mt="1370448970397"/>
-  <file name="index.html" crc="3896540673" mt="1370412940269"/>
-  <file name="faq.html" crc="4291892172" mt="1370449055532"/>
+  <file name="bang-bao-gia.html" crc="247399895" mt="1370750244834"/>
+  <file name="index.html" crc="3922294364" mt="1370752875574"/>
+  <file name="faq.html" crc="275504985" mt="1370753101158"/>
 </manifest>
