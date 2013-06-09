@@ -74,8 +74,8 @@
     <file name="u140.png" crc="3825881435" ref="bang-bao-gia"/>
     <file name="u140-r.png" crc="3934355261" ref="bang-bao-gia"/>
     <file name="click.png" crc="419697857" ref="bang-bao-gia:index"/>
-    <file name="u739.png" crc="493810493" ref="bang-bao-gia"/>
-    <file name="u739-r.png" crc="355380397" ref="bang-bao-gia"/>
+    <file name="u739.png" crc="3801273019" ref="bang-bao-gia"/>
+    <file name="u739-r.png" crc="524625194" ref="bang-bao-gia"/>
     <file name="u493.png" crc="3995823864" ref="bang-bao-gia"/>
     <file name="u493-r.png" crc="56076049" ref="bang-bao-gia"/>
     <file name="footer.png" crc="91093051" ref="bang-bao-gia:index"/>
@@ -97,8 +97,8 @@
     <file name="tai-sao-chon-chung-toi.png" crc="367089376" ref="index"/>
     <file name="faq-favicon.ico" crc="275975921" ref="faq"/>
     <file name="click-u615.png" crc="3932947765" ref="faq"/>
-    <file name="u747.png" crc="4194337350" ref="faq"/>
-    <file name="u747-r.png" crc="465595535" ref="faq"/>
+    <file name="u747.png" crc="3941676406" ref="faq"/>
+    <file name="u747-r.png" crc="4089936571" ref="faq"/>
     <file name="img_16182.jpg" crc="4054454894" ref="faq"/>
     <file name="img_16072.jpg" crc="127613476" ref="faq"/>
     <file name="img_1629.jpg" crc="3849596820" ref="faq"/>
@@ -111,7 +111,7 @@
     <file name="img_16142.jpg" crc="454247137" ref="faq"/>
     <file name="dung-cu-xuong.png" crc="3882381974" ref="faq"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="247399895" mt="1370750244834"/>
-  <file name="index.html" crc="3922294364" mt="1370752875574"/>
-  <file name="faq.html" crc="275504985" mt="1370753101158"/>
+  <file name="bang-bao-gia.html" crc="485951025" mt="1370753755704"/>
+  <file name="index.html" crc="191042371" mt="1370753573019"/>
+  <file name="faq.html" crc="467031040" mt="1370753800386"/>
 </manifest>
