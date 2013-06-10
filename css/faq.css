@@ -143,45 +143,19 @@ html
 	margin-bottom: -1px;
 }
 
-#pu615
-{
-	width: 0.01px;
-	margin-left: 691px;
-	top: -717px;
-	margin-bottom: -149px;
-	position: relative;
-}
-
 #u615
 {
 	z-index: 67;
+	margin-left: 799px;
+	top: -722px;
+	margin-bottom: -91px;
 	position: relative;
-	width: 132px;
-	margin-right: -10000px;
-	margin-top: 58px;
-	left: 108px;
 }
 
 #u615_img
 {
 	display: block;
 	vertical-align: top;
-}
-
-#u747
-{
-	z-index: 81;
-	height: 84px;
-	width: 239px;
-	vertical-align: top;
-	background: url("../images/u747.png") no-repeat 0px 0px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u747:hover
-{
-	background: url("../images/u747-r.png") no-repeat 0px 0px;
 }
 
 #pu676
@@ -232,7 +206,7 @@ html
 
 #u770
 {
-	z-index: 83;
+	z-index: 80;
 	width: 103px;
 	position: relative;
 	margin-right: -10000px;
@@ -240,7 +214,7 @@ html
 
 #u775
 {
-	z-index: 85;
+	z-index: 82;
 	width: 103px;
 	position: relative;
 	margin-right: -10000px;
@@ -258,7 +232,7 @@ html
 
 #u780
 {
-	z-index: 87;
+	z-index: 84;
 	width: 103px;
 	position: relative;
 	margin-right: -10000px;
@@ -266,7 +240,7 @@ html
 
 #u785
 {
-	z-index: 89;
+	z-index: 86;
 	width: 103px;
 	position: relative;
 	margin-right: -10000px;
@@ -281,7 +255,7 @@ html
 	vertical-align: top;
 	background: url("../images/u617.png") no-repeat 0px 0px;
 	margin-left: 703px;
-	top: -613px;
+	top: -677px;
 	margin-bottom: -78px;
 	position: relative;
 }

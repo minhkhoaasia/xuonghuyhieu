@@ -7,8 +7,7 @@ html
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.63225806451624px;
-	padding-bottom: 0px;
+	min-height: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -234,39 +233,13 @@ html
 	background: url("../images/u140-r.png") no-repeat 0px 0px;
 }
 
-#pu475
-{
-	width: 0.01px;
-	margin-left: 293px;
-	margin-top: 19px;
-	position: relative;
-}
-
 #u475
 {
 	z-index: 21;
 	width: 117px;
+	margin-left: 501px;
+	margin-top: 19px;
 	position: relative;
-	margin-right: -10000px;
-}
-
-#u739
-{
-	z-index: 44;
-	height: 101px;
-	width: 287px;
-	vertical-align: top;
-	background: url("../images/u739.png") no-repeat 0px 0px;
-	margin-bottom: -9px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 29px;
-	left: 245px;
-}
-
-#u739:hover
-{
-	background: url("../images/u739-r.png") no-repeat 0px 0px;
 }
 
 #u493
@@ -276,9 +249,9 @@ html
 	width: 309px;
 	vertical-align: top;
 	background: url("../images/u493.png") no-repeat 0px 0px;
-	margin-left: 143px;
-	top: -90px;
-	margin-bottom: -90px;
+	margin-left: 341px;
+	top: -33px;
+	margin-bottom: -33px;
 	position: relative;
 }
 
@@ -292,7 +265,8 @@ html
 	z-index: 31;
 	width: 957px;
 	left: -21px;
-	margin-top: 55px;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
 }
 
