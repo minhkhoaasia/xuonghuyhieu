@@ -222,25 +222,21 @@ html
 	z-index: 9;
 	width: 496px;
 	min-height: 305px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	left: 335px;
-}
-
-#u326-2,#u326-3,#u326-5,#u326-7,#u326-8,#u326-10
-{
-	font-size: 19px;
+	font-size: 16px;
 	color: #D60000;
 	font-weight: bold;
 	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 335px;
 }
 
 #pu1375
 {
 	width: 0.01px;
 	margin-left: 45px;
-	margin-top: 7px;
+	margin-top: 9px;
 	position: relative;
 }
 
