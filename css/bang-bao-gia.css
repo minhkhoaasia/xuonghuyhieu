@@ -73,35 +73,36 @@ html
 	margin-bottom: -1px;
 }
 
-#ppu697
+#pu1434
 {
 	width: 0.01px;
-	margin-left: 82px;
-	margin-top: 33px;
+	margin-left: 36px;
+	margin-top: 22px;
 	position: relative;
 }
 
-#pu697
+#u1434
 {
-	width: 0.01px;
-	padding-bottom: 0px;
+	z-index: 39;
+	width: 181px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+	left: 589px;
+}
+
+#u1464
+{
+	z-index: 41;
+	width: 600px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u697
+#pu692
 {
-	z-index: 39;
-	width: 523px;
-	position: relative;
-}
-
-#u702
-{
-	z-index: 41;
-	width: 422px;
-	margin-left: 109px;
-	margin-top: 19px;
+	width: 0.01px;
+	margin-left: 32px;
 	position: relative;
 }
 
@@ -111,8 +112,26 @@ html
 	width: 300px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 551px;
+	margin-top: 39px;
+	left: 568px;
+}
+
+#u1469
+{
+	z-index: 43;
+	width: 600px;
+	position: relative;
+	margin-right: -10000px;
+	left: 4px;
+}
+
+#u1474
+{
+	z-index: 45;
+	width: 600px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 236px;
 }
 
 #u648-4
@@ -122,15 +141,16 @@ html
 	min-height: 21px;
 	font-size: 12px;
 	font-style: italic;
-	margin-left: 135px;
+	margin-left: 131px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #pu103
 {
 	width: 0.01px;
-	margin-left: 74px;
-	margin-top: 30px;
+	margin-left: 58px;
+	margin-top: 36px;
 	position: relative;
 }
 
@@ -140,6 +160,7 @@ html
 	width: 190px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 28px;
 }
 
 #u108
@@ -148,8 +169,8 @@ html
 	width: 427px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 24px;
-	left: 160px;
+	margin-top: 59px;
+	left: 164px;
 }
 
 #u145
@@ -158,8 +179,17 @@ html
 	width: 183px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 118px;
-	left: 611px;
+	margin-top: 15px;
+	left: 612px;
+}
+
+#u475
+{
+	z-index: 21;
+	width: 117px;
+	position: relative;
+	margin-right: -10000px;
+	left: 415px;
 }
 
 #u488
@@ -171,8 +201,8 @@ html
 	background: url("../images/u488.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
-	left: 260px;
+	margin-top: 43px;
+	left: 264px;
 }
 
 #u488:hover
@@ -183,8 +213,8 @@ html
 #pu123
 {
 	width: 0.01px;
-	margin-left: 79px;
-	margin-top: 71px;
+	margin-left: 58px;
+	margin-top: 48px;
 	position: relative;
 }
 
@@ -205,8 +235,8 @@ html
 	background: url("../images/u135.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 200px;
+	margin-top: 8px;
+	left: 195px;
 }
 
 #u135:hover
@@ -221,25 +251,16 @@ html
 	width: 447px;
 	vertical-align: top;
 	background: url("../images/u140.png") no-repeat 0px 0px;
-	margin-bottom: -3px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 203px;
+	margin-top: 64px;
+	left: 198px;
 }
 
 #u140:hover
 {
 	background: url("../images/u140-r.png") no-repeat 0px 0px;
-}
-
-#u475
-{
-	z-index: 21;
-	width: 117px;
-	margin-left: 501px;
-	margin-top: 19px;
-	position: relative;
 }
 
 #u493
@@ -249,9 +270,8 @@ html
 	width: 309px;
 	vertical-align: top;
 	background: url("../images/u493.png") no-repeat 0px 0px;
-	margin-left: 341px;
-	top: -33px;
-	margin-bottom: -33px;
+	margin-left: 372px;
+	margin-top: 42px;
 	position: relative;
 }
 
@@ -264,9 +284,8 @@ html
 {
 	z-index: 31;
 	width: 957px;
-	left: -21px;
-	top: -2px;
-	margin-bottom: -2px;
+	margin-left: 3px;
+	margin-top: 55px;
 	position: relative;
 }
 
