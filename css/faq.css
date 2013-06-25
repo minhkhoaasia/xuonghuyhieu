@@ -98,8 +98,8 @@ html
 {
 	z-index: 7;
 	width: 110px;
-	margin-left: 79px;
-	top: -924px;
+	margin-left: 44px;
+	top: -919px;
 	margin-bottom: -38px;
 	position: relative;
 }
@@ -107,16 +107,16 @@ html
 #pu534
 {
 	width: 0.01px;
-	margin-left: 146px;
-	top: -889px;
-	margin-bottom: -157px;
+	margin-left: 82px;
+	top: -881px;
+	margin-bottom: -152px;
 	position: relative;
 }
 
 #u534
 {
 	z-index: 3;
-	width: 157px;
+	width: 127px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -124,21 +124,31 @@ html
 #u536
 {
 	z-index: 5;
-	width: 650px;
+	width: 527px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 23px;
-	left: 29px;
+	margin-top: 19px;
+	left: 24px;
 }
 
-#u536_clip
+#u1493
+{
+	z-index: 88;
+	width: 258px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 580px;
+}
+
+#u1493_clip
 {
 	overflow: hidden;
-	width: 650px;
-	height: 115px;
+	width: 258px;
+	height: 144px;
 }
 
-#u536_img
+#u1493_img
 {
 	margin-bottom: -1px;
 }

@@ -15,7 +15,7 @@ html
 #page_position_content
 {
 	margin-top: -36px;
-	margin-bottom: -36px;
+	margin-bottom: 3px;
 }
 
 #u304
@@ -280,12 +280,21 @@ html
 	background: url("../images/u493-r.png") no-repeat 0px 0px;
 }
 
+#u1486
+{
+	z-index: 47;
+	width: 667px;
+	margin-left: 217px;
+	margin-top: 63px;
+	position: relative;
+}
+
 #u572
 {
 	z-index: 31;
 	width: 957px;
-	margin-left: 3px;
-	margin-top: 55px;
+	margin-left: 2px;
+	margin-top: 25px;
 	position: relative;
 }
 

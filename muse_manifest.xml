@@ -1,10 +1,10 @@
 <manifest alg="2" build="8" opt="false">
   <folder name="css">
     <file name="site_global.css" crc="89652228"/>
-    <file name="master_a-master.css" crc="351191000" ref="index:bang-bao-gia:faq"/>
+    <file name="master_a-master.css" crc="351191000" ref="bang-bao-gia:faq:index"/>
+    <file name="bang-bao-gia.css" crc="3836594601" ref="bang-bao-gia"/>
+    <file name="faq.css" crc="391261499" ref="faq"/>
     <file name="index.css" crc="430580828" ref="index"/>
-    <file name="bang-bao-gia.css" crc="4280194039" ref="bang-bao-gia"/>
-    <file name="faq.css" crc="3837897703" ref="faq"/>
   </folder>
   <folder name="assets">
     <folder name="xuong-huy-hieu">
@@ -58,7 +58,7 @@
     <file name="bang-bao-gia-favicon.ico" crc="275975921" ref="bang-bao-gia"/>
     <file name="bg.jpg" crc="4248523777" ref="bang-bao-gia:index:faq"/>
     <file name="trang-chu.png" crc="232094105" ref="bang-bao-gia:faq"/>
-    <file name="banhrangtrungtam.png" crc="150122422" ref="bang-bao-gia:faq"/>
+    <file name="banhrangtrungtam.png" crc="150122422" ref="bang-bao-gia"/>
     <file name="logo.png" crc="3949746804" ref="bang-bao-gia:faq"/>
     <file name="58_01_02.gif" crc="4282722850" ref="bang-bao-gia"/>
     <file name="bg_01.png" crc="4279289225" ref="bang-bao-gia"/>
@@ -78,6 +78,7 @@
     <file name="u140-r.png" crc="3934355261" ref="bang-bao-gia"/>
     <file name="u493.png" crc="3995823864" ref="bang-bao-gia"/>
     <file name="u493-r.png" crc="56076049" ref="bang-bao-gia"/>
+    <file name="a2c884b9868a94d8c047249d7e7e5f25-51b41e1893a91.png" crc="4042459733" ref="bang-bao-gia"/>
     <file name="footer.png" crc="91093051" ref="bang-bao-gia:index"/>
     <file name="trang-chu-favicon.ico" crc="275975921" ref="index"/>
     <file name="chevron.png" crc="4127176384" ref="index"/>
@@ -96,6 +97,8 @@
     <file name="u498-r.png" crc="3893264967" ref="index"/>
     <file name="u498-m.png" crc="3893264967" ref="index"/>
     <file name="faq-favicon.ico" crc="275975921" ref="faq"/>
+    <file name="banhrangtrungtam128x128.png" crc="4133093061" ref="faq"/>
+    <file name="9e60430544cfc9c9ba1e9ad4f992d776-518a83d858699.png" crc="63699643" ref="faq"/>
     <file name="click-u615.png" crc="3932947765" ref="faq"/>
     <file name="img_16182.jpg" crc="4054454894" ref="faq"/>
     <file name="img_16072.jpg" crc="127613476" ref="faq"/>
@@ -109,7 +112,7 @@
     <file name="img_16142.jpg" crc="454247137" ref="faq"/>
     <file name="dung-cu-xuong.png" crc="3882381974" ref="faq"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="3806143700" mt="1371125720038"/>
-  <file name="index.html" crc="219671020" mt="1371125791072"/>
-  <file name="faq.html" crc="4009560003" mt="1370875158641"/>
+  <file name="bang-bao-gia.html" crc="4273241069" mt="1372139799442"/>
+  <file name="index.html" crc="4151508809" mt="1372139844192"/>
+  <file name="faq.html" crc="3886141085" mt="1372139815514"/>
 </manifest>
