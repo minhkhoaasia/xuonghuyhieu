@@ -65,17 +65,17 @@ html
 {
 	width: 0.01px;
 	position: relative;
-	left: 22px;
-	padding-top: 19px;
+	left: 13px;
+	padding-top: 17px;
 	z-index: 2;
-	padding-bottom: 20px;
+	padding-bottom: 8px;
 }
 
 #u1590-10
 {
 	z-index: 22;
-	width: 330px;
-	min-height: 157px;
+	width: 353px;
+	min-height: 175px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -135,6 +135,53 @@ html
 	margin-right: -10000px;
 }
 
+#u1574
+{
+	z-index: 13;
+	width: 341px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 341px;
+	left: 437px;
+}
+
+#u1579
+{
+	z-index: 16;
+	height: 61px;
+	width: 173px;
+	vertical-align: top;
+	background: url("../images/u1579.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 605px;
+	left: 238px;
+}
+
+#u1579:hover
+{
+	background: url("../images/u1579-r.png") no-repeat 0px 0px;
+}
+
+#u1584
+{
+	z-index: 19;
+	height: 65px;
+	width: 177px;
+	vertical-align: top;
+	background: url("../images/u1584.png") no-repeat 0px 0px;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 605px;
+	left: 68px;
+}
+
+#u1584:hover
+{
+	background: url("../images/u1584-r.png") no-repeat 0px 0px;
+}
+
 #u1609-4
 {
 	z-index: 32;
@@ -150,65 +197,12 @@ html
 	left: 55px;
 }
 
-#ppu1584
-{
-	width: 0.01px;
-	margin-left: 167px;
-	margin-top: 254px;
-	position: relative;
-}
-
-#u1584
-{
-	z-index: 19;
-	height: 65px;
-	width: 177px;
-	vertical-align: top;
-	background: url("../images/u1584.png") no-repeat 0px 0px;
-	margin-bottom: -9px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u1584:hover
-{
-	background: url("../images/u1584-r.png") no-repeat 0px 0px;
-}
-
-#u1579
-{
-	z-index: 16;
-	height: 61px;
-	width: 173px;
-	vertical-align: top;
-	background: url("../images/u1579.png") no-repeat 0px 0px;
-	margin-bottom: -5px;
-	position: relative;
-	margin-right: -10000px;
-	left: 171px;
-}
-
-#u1579:hover
-{
-	background: url("../images/u1579-r.png") no-repeat 0px 0px;
-}
-
 #u1568
 {
 	z-index: 11;
 	width: 800px;
 	margin-left: 107px;
-	margin-top: 41px;
-	position: relative;
-}
-
-#u1574
-{
-	z-index: 13;
-	width: 341px;
-	margin-left: 537px;
-	top: -380px;
-	margin-bottom: -326px;
+	margin-top: 35px;
 	position: relative;
 }
 
