@@ -4,7 +4,7 @@
     <file name="master_a-master.css" crc="351191000" ref="index:faq:facebook:bang-bao-gia"/>
     <file name="index.css" crc="4049794686" ref="index"/>
     <file name="faq.css" crc="22686650" ref="faq"/>
-    <file name="facebook.css" crc="4192941750" ref="facebook"/>
+    <file name="facebook.css" crc="3822966477" ref="facebook"/>
     <file name="bang-bao-gia.css" crc="144107024" ref="bang-bao-gia"/>
   </folder>
   <folder name="assets">
@@ -108,16 +108,15 @@
     <file name="img_16142.jpg" crc="454247137" ref="faq"/>
     <file name="dung-cu-xuong.png" crc="3882381974" ref="faq"/>
     <file name="facebook-favicon.ico" crc="275975921" ref="facebook"/>
-    <file name="wp_000836 (1).jpg" crc="4032185053" ref="facebook"/>
-    <file name="tang-huy-hieu-facebook_03-u1592.png" crc="139116018" ref="facebook"/>
+    <file name="tang-huy-hieu-facebook_03.jpg" crc="21270954" ref="facebook"/>
     <file name="u1584.png" crc="4064840575" ref="facebook"/>
     <file name="u1584-r.png" crc="4268521722" ref="facebook"/>
     <file name="u1579.png" crc="4154604008" ref="facebook"/>
     <file name="u1579-r.png" crc="3761400875" ref="facebook"/>
     <file name="tang-huy-hieu-facebook_07.png" crc="3883904668" ref="facebook"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="276369852" mt="1372781192419"/>
-  <file name="index.html" crc="4152558510" mt="1372780994319"/>
-  <file name="faq.html" crc="3916445920" mt="1372781092124"/>
-  <file name="facebook.html" crc="4230172240" mt="1372783607481"/>
+  <file name="bang-bao-gia.html" crc="276369852" mt="1372783627903"/>
+  <file name="index.html" crc="4152558510" mt="1372783628903"/>
+  <file name="faq.html" crc="3916445920" mt="1372783630093"/>
+  <file name="facebook.html" crc="96470432" mt="1372785441045"/>
 </manifest>
