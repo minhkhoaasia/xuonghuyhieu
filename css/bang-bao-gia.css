@@ -84,7 +84,7 @@ html
 
 #u1500
 {
-	z-index: 37;
+	z-index: 39;
 	width: 549px;
 	position: relative;
 	margin-right: -10000px;
@@ -92,7 +92,7 @@ html
 
 #u1434
 {
-	z-index: 35;
+	z-index: 37;
 	width: 157px;
 	position: relative;
 	margin-right: -10000px;
@@ -118,14 +118,14 @@ html
 
 #u1505
 {
-	z-index: 39;
+	z-index: 41;
 	width: 432px;
 	position: relative;
 }
 
 #u1510
 {
-	z-index: 41;
+	z-index: 43;
 	width: 430px;
 	margin-top: 37px;
 	position: relative;
@@ -133,7 +133,7 @@ html
 
 #u1531
 {
-	z-index: 45;
+	z-index: 47;
 	width: 300px;
 	position: relative;
 	margin-right: -10000px;
@@ -141,7 +141,7 @@ html
 	left: 461px;
 }
 
-#u648-4
+#u648-6
 {
 	z-index: 31;
 	width: 416px;
@@ -208,7 +208,7 @@ html
 	background: url("../images/u488.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 43px;
+	margin-top: 56px;
 	left: 264px;
 }
 
@@ -242,7 +242,7 @@ html
 	background: url("../images/u135.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 21px;
 	left: 195px;
 }
 
@@ -258,10 +258,10 @@ html
 	width: 447px;
 	vertical-align: top;
 	background: url("../images/u140.png") no-repeat 0px 0px;
-	margin-bottom: -1px;
+	margin-bottom: -9px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 64px;
+	margin-top: 77px;
 	left: 198px;
 }
 
@@ -278,7 +278,7 @@ html
 	vertical-align: top;
 	background: url("../images/u493.png") no-repeat 0px 0px;
 	margin-left: 372px;
-	margin-top: 42px;
+	margin-top: 50px;
 	position: relative;
 }
 
@@ -289,7 +289,7 @@ html
 
 #u1516
 {
-	z-index: 43;
+	z-index: 45;
 	width: 800px;
 	margin-left: 92px;
 	margin-top: 43px;

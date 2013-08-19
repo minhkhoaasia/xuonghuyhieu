@@ -1,53 +1,11 @@
 <manifest alg="2" build="8" opt="false">
   <folder name="css">
     <file name="site_global.css" crc="89652228"/>
-    <file name="master_a-master.css" crc="351191000" ref="index:faq:facebook:bang-bao-gia"/>
-    <file name="index.css" crc="4049794686" ref="index"/>
-    <file name="faq.css" crc="22686650" ref="faq"/>
-    <file name="facebook.css" crc="3920712131" ref="facebook"/>
-    <file name="bang-bao-gia.css" crc="144107024" ref="bang-bao-gia"/>
-  </folder>
-  <folder name="assets">
-    <folder name="xuong-huy-hieu">
-      <folder name="edge_includes">
-        <file name="edge.1.5.0.min.js" crc="3935511104" mt="1370091741000"/>
-        <file name="jquery-1.7.1.min.js" crc="4091143699" mt="1370091741000"/>
-      </folder>
-      <folder name="images">
-        <file name="file-vector-trang-chu.png" crc="3761700460" mt="1370091741000"/>
-        <file name="file-vector-trang-chu2.png" crc="3761700460" mt="1370091741000"/>
-        <file name="footer.png" crc="91093051" mt="1370091741000"/>
-        <file name="huy-hieu-mau.jpg" crc="4206258985" mt="1370091741000"/>
-        <file name="Poster.png" crc="121750756" mt="1370091741000"/>
-        <file name="tai-sao-chon-chung-toi.png" crc="367089376" mt="1370091741000"/>
-        <file name="loader-bar.gif" crc="376648417" mt="1370091741000"/>
-        <file name="preloader2.gif" crc="287767951" mt="1370091741000"/>
-        <file name="preloader22.gif" crc="287767951" mt="1370091741000"/>
-      </folder>
-      <file name="banhrang2.png" crc="3764150794" mt="1370091741000"/>
-      <file name="banhrang3.png" crc="4109658714" mt="1370091741000"/>
-      <file name="banhrang4.png" crc="4053594556" mt="1370091741000"/>
-      <file name="banhrang5.png" crc="26460665" mt="1370091741000"/>
-      <file name="banhrangtrungtam.png" crc="4010256418" mt="1370091741000"/>
-      <file name="be_phong.png" crc="4196870547" mt="1370091741000"/>
-      <file name="boom.png" crc="4092541735" mt="1370091741000"/>
-      <file name="bua.png" crc="450434140" mt="1370091741000"/>
-      <file name="du.png" crc="43670893" mt="1370091741000"/>
-      <file name="fire2.png" crc="66388311" mt="1370091741000"/>
-      <file name="giatdien.png" crc="4181180154" mt="1370091741000"/>
-      <file name="logo.png" crc="3949746804" mt="1370091741000"/>
-      <file name="mach_dien.png" crc="4207101717" mt="1370091741000"/>
-      <file name="mui_ten_len.png" crc="4294935561" mt="1370091741000"/>
-      <file name="mui_ten_ngang.png" crc="2503273" mt="1370091741000"/>
-      <file name="ten_lua.png" crc="3939646749" mt="1370091741000"/>
-      <file name="X.png" crc="509959992" mt="1370091741000"/>
-      <file name="xuong_cho.png" crc="3925423153" mt="1370091741000"/>
-      <file name="Xuong-huy-hieu_edge.js" crc="4289391215" mt="1370091741000"/>
-      <file name="Xuong-huy-hieu_edgeActions.js" crc="4221348133" mt="1370091741000"/>
-      <file name="Xuong-huy-hieu_edgePreload.js" crc="4011005070" mt="1370091741000"/>
-      <file name="nhan_vat_cho.gif" crc="3942102655" mt="1370091741000"/>
-      <file name="Xuong-huy-hieu.html" crc="99839420" mt="1370091741000"/>
-    </folder>
+    <file name="master_a-master.css" crc="351191000" ref="facebook:faq:index:bang-bao-gia"/>
+    <file name="facebook.css" crc="4000499099" ref="facebook"/>
+    <file name="faq.css" crc="479961955" ref="faq"/>
+    <file name="index.css" crc="345714076" ref="index"/>
+    <file name="bang-bao-gia.css" crc="431014182" ref="bang-bao-gia"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="bang-bao-gia:index:faq:facebook"/>
@@ -110,13 +68,13 @@
     <file name="facebook-favicon.ico" crc="275975921" ref="facebook"/>
     <file name="tang-huy-hieu-facebook_03.jpg" crc="21270954" ref="facebook"/>
     <file name="tang-huy-hieu-facebook_07.png" crc="3883904668" ref="facebook"/>
-    <file name="u1579.png" crc="4154604008" ref="facebook"/>
-    <file name="u1579-r.png" crc="3761400875" ref="facebook"/>
-    <file name="u1584.png" crc="4064840575" ref="facebook"/>
-    <file name="u1584-r.png" crc="4268521722" ref="facebook"/>
+    <file name="u1579.png" crc="4217636254" ref="facebook"/>
+    <file name="u1579-r.png" crc="141749161" ref="facebook"/>
+    <file name="u1584.png" crc="343852933" ref="facebook"/>
+    <file name="u1584-r.png" crc="179545910" ref="facebook"/>
   </folder>
-  <file name="bang-bao-gia.html" crc="276369852" mt="1372785479713"/>
+  <file name="bang-bao-gia.html" crc="204426290" mt="1376929109819"/>
   <file name="index.html" crc="4152558510" mt="1372785480991"/>
-  <file name="faq.html" crc="3916445920" mt="1372785482029"/>
-  <file name="facebook.html" crc="488170569" mt="1372786152806"/>
+  <file name="faq.html" crc="13046193" mt="1376929291982"/>
+  <file name="facebook.html" crc="488170569" mt="1376929055959"/>
 </manifest>
